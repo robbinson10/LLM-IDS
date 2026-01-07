@@ -10,3 +10,10 @@ data/processed/*
 # Keep folder structure
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+# Allow GenAI synthetic outputs
+!data/genai/
+!data/genai/*.csv
+
+# Ignore legacy / experimental scripts
+src/train.py 

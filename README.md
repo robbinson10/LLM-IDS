@@ -146,7 +146,7 @@ streamlit run app.py
 ## 🌐 Accessing the Dashboard
 
 Once the application is running, open your browser at:
-http://localhost:8501
+`http://localhost:8501`
 
 This launches the interactive *Streamlit-based IDS dashboard*.
 
