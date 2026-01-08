@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![Framework](https://img.shields.io/badge/streamlit-dashboard-red)
+![Model](https://img.shields.io/badge/model-XGBoost-green)
+![Explainability](https://img.shields.io/badge/explainability-SHAP-orange)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
 # 🔐 GenAI-Augmented Intrusion Detection System (IDS)
 
 A *machine learning–based network Intrusion Detection System (IDS)* that is later enhanced using Generative AI to improve rare-attack detection.  
